@@ -1,0 +1,2 @@
+# SlotMachine
+Functional slot machine
