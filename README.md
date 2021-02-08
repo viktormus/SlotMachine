@@ -1,2 +1,2 @@
 # SlotMachine
-Functional slot machine
+Functional slot machine, but without user input
